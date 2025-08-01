@@ -4,6 +4,6 @@ All notable changes to the "nordic-midnight" extension will be documented in thi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [1.2.0] - 2025/08/01
 
-- Initial release
+- Fixed the image not loading
