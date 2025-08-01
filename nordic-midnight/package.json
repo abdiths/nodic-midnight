@@ -1,0 +1,32 @@
+{
+  "name": "nordic-midnight",
+  "displayName": "Nordic Midnight",
+  "description": "The best version of Nord theme",
+  "version": "1.0.0",
+  "publisher": "abdi",
+  "author": "Abdi <abdiths@gmail.com>",
+  "repository": "",
+  "icon": "assets/nm.png",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Nordic",
+    "Midnight",
+    "Arctic",
+    "Bluish",
+    "Cursor"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nordic Midnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nordic-Midnight.json"
+      }
+    ]
+  }
+}
