@@ -2,10 +2,10 @@
   "name": "nordic-midnight",
   "displayName": "Nordic Midnight",
   "description": "The best version of Nord theme",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "abdi",
   "author": "Abdi <abdiths@gmail.com>",
-  "repository": "",
+  "repository": "https://github.com/abdiths/nodic-midnight",
   "icon": "assets/nm.png",
   "engines": {
     "vscode": "^1.102.0"
